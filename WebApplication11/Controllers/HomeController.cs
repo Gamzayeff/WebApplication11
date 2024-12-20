@@ -15,6 +15,7 @@ namespace WebApplication11.Controllers
 
         public IActionResult Index()
         {
+            var name = "Eli"
             return View();
         }
 
